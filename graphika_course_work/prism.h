@@ -4,10 +4,8 @@
 #include "plane.h"
 
 
-
 class prism
 {
-	
 public:
 	point* mid;
 	int num;
